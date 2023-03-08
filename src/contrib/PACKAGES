@@ -22,3 +22,11 @@ Suggests: testthat (>= 2.1.0), numDeriv
 License: MIT
 MD5sum: 516809425f523c67e2dc4bbce7368a9f
 NeedsCompilation: no
+
+Package: rcgen
+Version: 0.13.2
+Depends: R (>= 3.3.1),
+Imports: rcest
+License: MIT
+MD5sum: d258bbae68e707dcf53337cf16a90ef4
+NeedsCompilation: no
