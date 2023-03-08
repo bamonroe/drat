@@ -3,7 +3,7 @@ Version: 0.6.2
 Depends: R (>= 3.5.1)
 Imports: Rcpp, RcppArmadillo
 LinkingTo: Rcpp, RcppArmadillo
-MD5sum: 88cde213f0c197db1f76a0628c6b5c0e
+MD5sum: b3ab6835bd6eb2db7ddd7e3c0ddbcd58
 NeedsCompilation: yes
 
 Package: rcest
