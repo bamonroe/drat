@@ -39,3 +39,10 @@ LinkingTo: Rcpp, RcppArmadillo
 License: MIT
 MD5sum: 9f211917528c4de6630358a812d7552d
 NeedsCompilation: yes
+
+Package: rcstan
+Version: 0.0.0.9000
+Imports: StanHeaders, rstan, stringr, coda, haven
+License: MIT + file LICENSE
+MD5sum: 89a870c3ed82c3f851c8339611fec1f6
+NeedsCompilation: no
