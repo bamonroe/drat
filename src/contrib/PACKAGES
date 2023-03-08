@@ -1,3 +1,11 @@
+Package: mdists
+Version: 0.6.2
+Depends: R (>= 3.5.1)
+Imports: Rcpp, RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+MD5sum: d7e84d1f351729414e534a645b500245
+NeedsCompilation: yes
+
 Package: rcest
 Version: 0.13.1
 Depends: R (>= 3.3.1)
