@@ -6,6 +6,15 @@ LinkingTo: Rcpp, RcppArmadillo
 MD5sum: fd7f91c2fbe8547f486726b9797c7cfe
 NeedsCompilation: yes
 
+Package: mopt
+Version: 0.2.2
+Depends: R (>= 3.5.2)
+Imports: rcest, maxLik
+Suggests: nloptr, microbenchmark
+License: MIT
+MD5sum: 1dac2c2d6744127271f046a7f97bd9d5
+NeedsCompilation: no
+
 Package: rcest
 Version: 0.13.1
 Depends: R (>= 3.3.1)
