@@ -28,7 +28,7 @@ Version: 0.14.0
 Depends: R (>= 3.3.1),
 Imports: rcest
 License: MIT
-MD5sum: 684175523735b97bfa20527e37a7a02e
+MD5sum: bca671e9dceab49f79282f94a92a3282
 NeedsCompilation: no
 
 Package: rcguts
