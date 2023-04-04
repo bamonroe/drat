@@ -12,7 +12,7 @@ Depends: R (>= 3.5.2)
 Imports: rcest, maxLik
 Suggests: nloptr, microbenchmark
 License: MIT
-MD5sum: 1dac2c2d6744127271f046a7f97bd9d5
+MD5sum: 8b4b14a4ababbd0a25b63a64312144aa
 NeedsCompilation: no
 
 Package: rcest
