@@ -23,6 +23,14 @@ License: MIT
 MD5sum: 516809425f523c67e2dc4bbce7368a9f
 NeedsCompilation: no
 
+Package: rcest
+Version: 0.13.2
+Depends: R (>= 3.3.1)
+Suggests: testthat (>= 2.1.0), numDeriv
+License: MIT
+MD5sum: e17961aacd5818d41e814fd2d517cbf5
+NeedsCompilation: no
+
 Package: rcgen
 Version: 0.14.0
 Depends: R (>= 3.3.1),
