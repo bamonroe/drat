@@ -16,14 +16,6 @@ MD5sum: 8b4b14a4ababbd0a25b63a64312144aa
 NeedsCompilation: no
 
 Package: rcest
-Version: 0.13.1
-Depends: R (>= 3.3.1)
-Suggests: testthat (>= 2.1.0), numDeriv
-License: MIT
-MD5sum: 516809425f523c67e2dc4bbce7368a9f
-NeedsCompilation: no
-
-Package: rcest
 Version: 0.13.2
 Depends: R (>= 3.3.1)
 Suggests: testthat (>= 2.1.0), numDeriv
