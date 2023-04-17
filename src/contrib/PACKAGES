@@ -53,5 +53,5 @@ Package: rcstan
 Version: 0.0.0.9000
 Imports: StanHeaders, rstan, stringr, coda, haven
 License: MIT + file LICENSE
-MD5sum: 89a870c3ed82c3f851c8339611fec1f6
+MD5sum: e92d9437b7acfe61cfc6f8f1095bda96
 NeedsCompilation: no
