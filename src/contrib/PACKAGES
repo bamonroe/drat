@@ -31,6 +31,14 @@ License: MIT
 MD5sum: 5a07181bc67b32f253bc12ff11e4a87e
 NeedsCompilation: no
 
+Package: rcgen
+Version: 0.14.3
+Depends: R (>= 3.3.1),
+Imports: rcest
+License: MIT
+MD5sum: 957c69ce08bfb60d6af0f63756c57c21
+NeedsCompilation: no
+
 Package: rcguts
 Version: 0.19.1
 Depends: R (>= 3.4.1)
