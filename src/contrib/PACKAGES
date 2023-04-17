@@ -24,14 +24,6 @@ MD5sum: e17961aacd5818d41e814fd2d517cbf5
 NeedsCompilation: no
 
 Package: rcgen
-Version: 0.14.2
-Depends: R (>= 3.3.1),
-Imports: rcest
-License: MIT
-MD5sum: 5a07181bc67b32f253bc12ff11e4a87e
-NeedsCompilation: no
-
-Package: rcgen
 Version: 0.14.3
 Depends: R (>= 3.3.1),
 Imports: rcest
