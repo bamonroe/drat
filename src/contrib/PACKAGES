@@ -62,3 +62,10 @@ Imports: StanHeaders, rstan, stringr, coda, haven
 License: MIT + file LICENSE
 MD5sum: e92d9437b7acfe61cfc6f8f1095bda96
 NeedsCompilation: no
+
+Package: rcstan
+Version: 0.0.1.0
+Imports: StanHeaders (>= 2.26.16), rstan, stringr, coda, haven
+License: MIT + file LICENSE
+MD5sum: 175de2040b4d30e5e5e4d088883bdba9
+NeedsCompilation: no
