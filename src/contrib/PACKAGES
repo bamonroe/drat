@@ -50,20 +50,6 @@ MD5sum: 2c0f7009a60fad7a0fce373f26fb02bd
 NeedsCompilation: yes
 
 Package: rcstan
-Version: 0.0.0.10
-Imports: StanHeaders (>= 2.26.16), rstan, stringr, coda, haven
-License: MIT + file LICENSE
-MD5sum: 74105cf91ecdf166e64078c2bcc31239
-NeedsCompilation: no
-
-Package: rcstan
-Version: 0.0.0.9000
-Imports: StanHeaders, rstan, stringr, coda, haven
-License: MIT + file LICENSE
-MD5sum: e92d9437b7acfe61cfc6f8f1095bda96
-NeedsCompilation: no
-
-Package: rcstan
 Version: 0.0.1.0
 Imports: StanHeaders (>= 2.26.16), rstan, stringr, coda, haven
 License: MIT + file LICENSE
