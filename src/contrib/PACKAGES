@@ -60,5 +60,5 @@ NeedsCompilation: no
 Package: repres
 Version: 0.1.0
 License: GPL (>= 3)
-MD5sum: 88d57a4c0eb9b115a8cbbb621b05cd81
+MD5sum: 92a3dd26db9e820f852af6e856a5d568
 NeedsCompilation: no
