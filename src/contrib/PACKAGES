@@ -56,3 +56,9 @@ Imports: StanHeaders (>= 2.26.22), rstan (>= 2.26.22), stringr, coda,
 License: MIT + file LICENSE
 MD5sum: 22107e7264035ac6e5775f18e667f872
 NeedsCompilation: no
+
+Package: repres
+Version: 0.1.0
+License: GPL (>= 3)
+MD5sum: e8f7efe336193e97391059e541c37c4b
+NeedsCompilation: no
