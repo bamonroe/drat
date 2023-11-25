@@ -58,12 +58,6 @@ MD5sum: 22107e7264035ac6e5775f18e667f872
 NeedsCompilation: no
 
 Package: repres
-Version: 0.1.0
-License: GPL (>= 3)
-MD5sum: 92a3dd26db9e820f852af6e856a5d568
-NeedsCompilation: no
-
-Package: repres
 Version: 0.1.1
 License: GPL (>= 3)
 MD5sum: df0fc9e1559ebe6ca73a865f179e5912
