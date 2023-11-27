@@ -46,7 +46,7 @@ Depends: R (>= 3.5.1)
 Imports: Rcpp, RcppArmadillo
 LinkingTo: Rcpp, RcppArmadillo
 License: MIT
-MD5sum: 80876c02e7a16e75bb4daf7dddbe3375
+MD5sum: 33580b34de81e080c74e0eba6dd7beb1
 NeedsCompilation: yes
 
 Package: rcstan
