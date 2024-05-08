@@ -32,15 +32,6 @@ MD5sum: 957c69ce08bfb60d6af0f63756c57c21
 NeedsCompilation: no
 
 Package: rcguts
-Version: 0.19.1
-Depends: R (>= 3.4.1)
-Imports: rcest, Rcpp, RcppArmadillo
-LinkingTo: Rcpp, RcppArmadillo
-License: MIT
-MD5sum: 9f211917528c4de6630358a812d7552d
-NeedsCompilation: yes
-
-Package: rcguts
 Version: 0.19.2
 Depends: R (>= 3.4.1)
 Imports: rcest, Rcpp, RcppArmadillo
