@@ -40,6 +40,15 @@ License: MIT
 MD5sum: 9f211917528c4de6630358a812d7552d
 NeedsCompilation: yes
 
+Package: rcguts
+Version: 0.19.2
+Depends: R (>= 3.4.1)
+Imports: rcest, Rcpp, RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+License: MIT
+MD5sum: ca936212f07230a00a32df3f7a2cb85c
+NeedsCompilation: yes
+
 Package: rcocl
 Version: 0.2.0
 Depends: R (>= 3.5.1)
