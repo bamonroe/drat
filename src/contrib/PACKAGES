@@ -49,6 +49,15 @@ License: MIT
 MD5sum: ed398541439cd3db031fcee70a3d8ba4
 NeedsCompilation: yes
 
+Package: rcocl
+Version: 0.5.4
+Depends: R (>= 3.5.1)
+Imports: Rcpp, RcppArmadillo
+LinkingTo: Rcpp, RcppArmadillo
+License: MIT
+MD5sum: 266719fe43173fd705d8c8f5c43737bc
+NeedsCompilation: yes
+
 Package: rcstan
 Version: 0.1.4
 Imports: StanHeaders (>= 2.26.22), rstan (>= 2.26.22), stringr, coda,
