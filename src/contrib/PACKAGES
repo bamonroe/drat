@@ -54,7 +54,7 @@ Version: 0.3.0
 Imports: StanHeaders (>= 2.26.22), rstan (>= 2.26.22), stringr, coda,
         bridgesampling, haven
 License: MIT + file LICENSE
-MD5sum: 2196a1b14c04a4a8ec184a04063918c2
+MD5sum: 59e2c12749e087122b350b5536f0a8df
 NeedsCompilation: no
 
 Package: repres
