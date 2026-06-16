@@ -50,11 +50,12 @@ MD5sum: 6ac0daaa148bf9de69c71762c0da4c48
 NeedsCompilation: yes
 
 Package: rcstan
-Version: 0.3.3
+Version: 0.3.4
 Imports: StanHeaders (>= 2.26.22), rstan (>= 2.26.22), stringr, coda,
         bridgesampling, haven
+Suggests: testthat (>= 3.0.0)
 License: MIT + file LICENSE
-MD5sum: ce657938425a66de33edc0be1a1d415e
+MD5sum: 339b007062830bd847da861d8d1fb983
 NeedsCompilation: no
 
 Package: repres
